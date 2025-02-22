@@ -136,12 +136,24 @@ export const footer = [
   //       {
   //         text: "Clone this page",
   //         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-@@ -152,16 +152,16 @@ export const footer = [
+   //       },
+  //     ],
+  //   },
+  {
+    label: "Links",
+    data: [
+      //   {
+      //     text: "Linkedin",
+      //     link: "https://www.linkedin.com/in/vinaysomawat/",
+      //   },
+      //   {
+      //     text: "Twitter",
+      //     link: "https://twitter.com/thesigmakid",
       //   },
       {
         text: "Buy me a coffee",
         link: "https://www.buymeacoffee.com/r194dME8y",
-      },
+      }, 
       {
         text: "Github",
         link: "https://github.com/abhi-mwonu/vinaysomawat.github.io",
