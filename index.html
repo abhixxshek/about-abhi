@@ -257,21 +257,23 @@
         </div>
       </div>
     </div>
-    <script src="js/jquery.min.js"></script>
-    <script src="js/jquery.waypoints.min.js"></script>
-    <script src="js/main.js"></script>
-    <script>
-    const blogsSection = document.querySelector('[data-section="blogs"]');
-    if (blogsSection) {
-      blogsSection.remove();
-    }
+   <script src="js/jquery.min.js"></script>
+<script src="js/jquery.waypoints.min.js"></script>
+<script src="js/main.js"></script>
 
-  // Remove the trekking section
-    const trekkingSection = document.querySelector('[data-section="trekking"]');
-    if (trekkingSection) {
-      trekkingSection.remove();
-    }
-    </script>
+<script>
+  // Hide the blogs section
+  const blogsSection = document.querySelector('[data-section="blogs"]');
+  if (blogsSection) {
+    blogsSection.style.display = "none";
+  }
 
-  </body>
+  // Hide the trekking section
+  const trekkingSection = document.querySelector('[data-section="trekking"]');
+  if (trekkingSection) {
+    trekkingSection.style.display = "none";
+  }
+</script>
+
+</body>
 </html>
