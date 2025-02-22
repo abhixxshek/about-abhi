@@ -2,6 +2,7 @@ export const bio = [
   "I am <strong>Abhishek</strong> a BTech student in Information Technology with a strong passion for technology and innovation",
   "Always eager to learn, collaborate, and innovate in the tech space",
   "<strong>Someone who is Passionate about Cyber security</strong>",
+  "IEDC Branding and Marketing Lead",
 ];
 
 export const skills = [
