@@ -122,7 +122,7 @@ export const footer = [
   //       },
   //     ],
   //   },
-    //   {
+  //   {
   //     label: "Resources",
   //     data: [
   //       {
@@ -162,6 +162,6 @@ export const footer = [
   },
   {
     label: "copyright-text",
-    data: ["Made with &hearts; by aBHISHek
+    data: ["Made with &hearts; by aBHISHek],
   },
 ];
