@@ -5,8 +5,10 @@ export const bio = [
 ];
 
 export const skills = [
-  "Python, c-programming",
-  "SQL, java",
+  "<strong>Python</strong>",
+  "<strong>C-programming</strong>",
+  "<strong>SQL</strong>", 
+  "<strong>Java</strong>",
 ];
 
 export const experience = [
