@@ -1,14 +1,13 @@
 export const bio = [
   "Hello, I'm ABHISHEK",
-  "<strong>Passionate Engineering Student</strong> with 4+ years of experience building scalable, user-focused web applications.",
-  "Skilled in Angular, TypeScript, and performance optimization, I aim to leverage my expertise in delivering innovative solutions that drive measurable business outcomes.",
-  "Passionate about mentoring, teamwork, and continuous improvement in engineering processes.",
+  "<strong>Passionate Engineering Student</strong>",
+  "I'm currently pursuing a degree in Information Technology, with a strong passion for cybersecurity and reverse engineering.",
+  "Passionate about teamwork, and continuous improvement in engineering processes.",
 ];
 
 export const skills = [
-  "Python, TypeScript, Angular, AngularJS, React, HTML5, CSS, Bootstrap",
-  "RxJS, NGXS, NGRX",
-  "Jenkins, JIRA, Webpack, Git",
+  "Python, c-programming",
+  "SQL, java",
 ];
 
 export const experience = [
@@ -81,24 +80,23 @@ export const trekking = [
 
 export const education = [
   {
-    title: "B.Tech. in Computer Science and Engineering",
-    duration: "2016 - 2020",
-    subtitle: "National Institute of Technology, Warangal",
+    title: "B.Tech. in Information Technology",
+    duration: "2023 - 2027",
+    subtitle: "Government Engineering collage Idukki",
     details: [],
     tags: [
       "Data Structures & Algorithms",
-      "Operating Systems",
       "Database Management System",
-      "Computer Networks",
-      "Compiler Designing",
-      "Cloud Computing",
+      "Python",
+      "C-programming",
+      "Computer Organization",
     ],
     icon: "graduation-cap",
   },
   {
-    title: "Class 12th in Science and Mathematics",
-    duration: "",
-    subtitle: "Board of Secondary Education, Rajasthan",
+    title: "Class 12th in Biology science",
+    duration: "2020-2022",
+    subtitle: "Board of Secondary Education, Kerala",
     details: [],
     tags: ["Physics", "Chemistry", "Mathematics"],
     icon: "book",
@@ -157,7 +155,7 @@ export const footer = [
       },
       {
         text: "Github",
-        link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
+        link: "https://github.com/abhi-mwonu/vinaysomawat.github.io",
       },
     ],
   },
