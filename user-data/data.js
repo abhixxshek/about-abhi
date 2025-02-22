@@ -110,15 +110,15 @@ export const footer = [
   //     data: [
   //       {
   //         text: "Stackoverflow",
-  //         link: "https://stackoverflow.com/users/29750988/abhishek",
+  //         link: "https://stackoverflow.com/users/8461233/vinay-somawat",
   //       },
   //       {
   //         text: "GitHub",
-  //         link: "https://github.com/abhi-mwonu",
+  //         link: "https://github.com/vinaysomawat",
   //       },
   //       {
   //         text: "LeetCode",
-  //         link: "https://leetcode.com",
+  //         link: "https://leetcode.com/somawatvinay/",
   //       },
   //     ],
   //   },
@@ -136,32 +136,20 @@ export const footer = [
   //       {
   //         text: "Clone this page",
   //         link: "https://github.com/vinaysomawat/vinaysomawat.github.io",
-  //       },
-  //     ],
-  //   },
-  {
-    label: "Links",
-    data: [
-      //   {
-      //     text: "Linkedin",
-      //     link: "https://www.linkedin.com/in/vinaysomawat/",
-      //   },
-      //   {
-      //     text: "Twitter",
-      //     link: "https://twitter.com/thesigmakid",
+@@ -152,16 +152,16 @@ export const footer = [
       //   },
       {
         text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com",
+        link: "https://www.buymeacoffee.com/r194dME8y",
       },
       {
         text: "Github",
-        link: "https://github.com/abhi-mwonu",
+        link: "https://github.com/abhi-mwonu/vinaysomawat.github.io",
       },
     ],
   },
   {
     label: "copyright-text",
-    data: ["Made with &hearts; by aBHISHek],
+    data: ["Made with &hearts; by Vinay Somawat"],
   },
 ];
