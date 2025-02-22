@@ -814,14 +814,15 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .timeline-centered:before {
-	content: "";
-	position: absolute;
-	display: block;
-	width: 4px;
-	background: #f9bf3f;
-	top: 20px;
-	bottom: 20px;
-	margin-left: 29px;
+    content: "";
+    position: absolute;
+    display: block;
+    width: 4px;
+    background: #f9bf3f;
+    top: 0px !important; /* Fixes the top extension issue */
+    bottom: 0px;
+    left: 30px; /* Adjust left position */
+    margin-left: 0; /* Removes unwanted shifting */
 }
 
 .timeline-centered .timeline-entry {
