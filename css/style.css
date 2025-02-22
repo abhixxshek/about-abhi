@@ -826,11 +826,10 @@ body.offcanvas .colorlib-nav-toggle {
 }
 
 .timeline-centered .timeline-entry {
-	position: relative;
-	margin-top: 5px;
-	margin-left: 30px;
-	margin-bottom: 10px;
-	clear: both;
+    position: relative;
+    width: calc(100% - 60px); /* Prevents overflowing */
+    margin-left: 60px; /* Aligns with the timeline bar */
+    padding-top: 20px; /* Prevents overlapping with previous sections */
 }
 
 .timeline-centered .timeline-entry .timeline-entry-inner {
