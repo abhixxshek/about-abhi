@@ -1,6 +1,6 @@
 export const bio = [
-  "I'm <strong>Abhishek V</strong>, A Tech and <strong>Cybersecurity</strong> enthusiast pursuing B.Tech in IT at GEC Idukki",
-  "Passionate about networking, and security.Always eager to learn, collaborate, and innovate in the tech space",
+  "I am <strong>Abhishek</strong> a BTech student in Information Technology with a strong passion for technology and innovation.Currently pursuing my B TECH at GECI",
+  "Someone who is Passionate about Cyber security.Always eager to learn, collaborate, and innovate in the tech space",
   "<strong>Let’s connect !</strong>",
 ];
 
