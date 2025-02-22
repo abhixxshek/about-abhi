@@ -114,7 +114,7 @@ export const footer = [
     data: [
           {
              text: "Linkedin",
-             link: "https://www.linkedin.com/in/cyberabhi/",
+             link: "https://www.linkedin.com",
            },
       //   {
       //     text: "Twitter",
