@@ -110,26 +110,26 @@ export const footer = [
   {
     label: "Links",
     data: [
-      //   {
-      //     text: "Linkedin",
-      //     link: "https://www.linkedin.com/in/vinaysomawat/",
-      //   },
+          {
+             text: "Linkedin",
+             link: "https://www.linkedin.com/in/cyberabhi/",
+           },
       //   {
       //     text: "Twitter",
       //     link: "https://twitter.com/thesigmakid",
       //   },
-      {
-        text: "Buy me a coffee",
-        link: "https://www.buymeacoffee.com/r194dME8y",
-      }, 
-      {
-        text: "Github",
-        link: "https://github.com/abhi-mwonu/vinaysomawat.github.io",
+       {
+            text: "Buy me a coffee",
+            link: "https://www.buymeacoffee.com",
+          }, 
+          {
+            text: "Github",
+            link: "https://github.com/abhi-mwonu",
+          },
+        ],
       },
-    ],
-  },
-  {
-    label: "copyright-text",
-    data: ["Made with &hearts; by Vinay Somawat"],
-  },
-];
+      {
+        label: "copyright-text",
+        data: ["Made with &hearts; by Abhishek &hearts;"],
+      },
+    ];
