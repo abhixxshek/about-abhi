@@ -2197,33 +2197,3 @@ hr {
 		color: #f9bf3f;
 	}
   }
-@media screen and (max-width: 768px) {
-    .timeline-centered {
-        width: 100%;
-        padding-left: 10px;
-        padding-right: 10px;
-    }
-
-    .timeline-centered:before {
-        left: 20px; /* Adjusts vertical line position */
-        margin-left: 0; /* Removes extra margin */
-    }
-
-    .timeline-entry {
-        width: calc(100% - 40px); /* Prevents content overflow */
-        margin-left: 40px; /* Aligns with timeline bar */
-    }
-
-    .timeline-entry .timeline-entry-inner {
-        margin-left: 0;
-    }
-
-    .timeline-entry .timeline-entry-inner:before {
-        left: 0px;
-    }
-
-    .timeline-entry .timeline-entry-inner .timeline-label {
-        width: 100%; /* Ensures full width */
-        padding: 15px;
-    }
-}
