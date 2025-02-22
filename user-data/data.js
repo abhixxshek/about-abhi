@@ -58,7 +58,6 @@ export const education = [
       "Data Structures & Algorithms",
       "Database Management System",
       "Python",
-      "hhi",
       "C-programming",
       "Computer Organization",
     ],
